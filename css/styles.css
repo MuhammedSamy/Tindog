@@ -150,5 +150,11 @@ em{
     position: static;
     transform: rotate(0);
   }
-
+ p , em , h3 {
+  font-size: 1.5rem;
+}
+a {
+  font-size: 2rem;
+  font-weight: 900;
+}
 }
